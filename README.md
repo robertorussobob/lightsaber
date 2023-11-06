@@ -1,3 +1,3 @@
 # lightsaber
 
-./lightsaber.mp4
+https://github.com/robertorussobob/lightsaber/blob/main/lightsaber.mp4
