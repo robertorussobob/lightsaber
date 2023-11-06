@@ -1,0 +1,5 @@
+env = Environment(tools = ['mingw'], CPPFLAGS='-std=c++11')
+env.Append(CPPFLAGS=["-w"])
+env.Program('main.cpp')
+
+
